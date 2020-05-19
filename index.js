@@ -1,6 +1,6 @@
 'use strict';
 
-import * as iconModule from "icons.js";
+import * from "icons.js";
 
 const e = React.createElement;
 var colors=["blue", "green", "orange"];
