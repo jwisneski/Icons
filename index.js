@@ -1,6 +1,6 @@
 'use strict';
 
-import React from "react";
+//import React from "react";
 
 const e = React.createElement;
 var colors=["blue", "green", "orange"];
