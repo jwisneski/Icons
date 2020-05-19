@@ -1,7 +1,7 @@
-'use strict';
+//'use strict';
 
-import React from "react";
-const e = React.createElement;
+//import React from "react";
+//const e = React.createElement;
 
 /*
 class iconClass extends React.Component{
@@ -17,6 +17,6 @@ class iconClass extends React.Component{
 }
 */
 
-var iconVariablePlaceholder="<h1>Icon class placeholder</h1>";
+//var iconVariablePlaceholder="<h1>Icon class placeholder</h1>";
 
-export default *;
+//export default *;
