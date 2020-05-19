@@ -1,5 +1,4 @@
 import React from "react";
-import * from "components/icons.js";
 
 const e = React.createElement;
 var colors=["blue", "green", "orange"];
