@@ -1,5 +1,6 @@
 'use strict';
 
+import React from "react";
 const e = React.createElement;
 
 /*
