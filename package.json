@@ -1,9 +1,11 @@
 {
-  "name": "Icons",
-  "version": "1.0.0",
+  "name": "Joelski.icons",
+  "version": "0.0.1",
+  "decription":" ",
+  "keywords":" ",
   "dependencies": {
   
-  }
+  },
   
   "homepage": "https://jwisneski.github.io/Icons/"
 }
