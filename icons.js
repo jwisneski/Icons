@@ -1,7 +1,8 @@
-/*'use strict';
+'use strict';
 
 const e = React.createElement;
 
+/*
 class iconClass extends React.Component{
     constructor(props){
         super(props);    
