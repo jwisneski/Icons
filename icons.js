@@ -1,4 +1,4 @@
-'use strict';
+/*'use strict';
 
 const e = React.createElement;
 
@@ -13,5 +13,6 @@ class iconClass extends React.Component{
         );
     }
 }
+*/
 
 var iconVariablePlaceholder="<h1>Icon class placeholder</h1>"
