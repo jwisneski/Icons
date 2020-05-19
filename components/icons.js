@@ -15,6 +15,6 @@ class iconClass extends React.Component{
 }
 */
 
-var iconVariablePlaceholder="test";
+//var iconVariablePlaceholder="test";
 
 //export default *;
