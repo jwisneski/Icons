@@ -1,7 +1,7 @@
 const e = React.createElement;
 var colors=["blue", "green", "orange"];
 
-loadJS( "../icons.js" );
+loadJS( "components/icons.js" );
 
 class ButtonComp extends React.Component{
     constructor(props){
