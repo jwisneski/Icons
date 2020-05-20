@@ -2,7 +2,7 @@ var iconPlaceholder ="test";
 
 const e = React.createElement;
 
-class icon extends React.Component{
+class Icon extends React.Component{
   constructor(props){
     super(props);
   }

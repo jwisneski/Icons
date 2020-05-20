@@ -65,7 +65,7 @@ class Homepage extends React.Component {
                   
                   <SiteHeader/>
                   
-                  <icon/>
+                  <Icon/>
               </section>
             </React.Fragment>
         );
