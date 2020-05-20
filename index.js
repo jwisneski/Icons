@@ -1,5 +1,5 @@
 const e = React.createElement;
-const test=icon.icons;
+const test=icons.iconPlaceholder;
 
 console.log(test);
 
