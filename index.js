@@ -1,7 +1,4 @@
 const e = React.createElement;
-
-console.log(test);
-
 var colors=["blue", "green", "orange"];
 
 class ButtonComp extends React.Component{
