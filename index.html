@@ -25,11 +25,10 @@
         
         <!-- Stylesheets-->
         <link rel="stylesheet" href="main.css">
-        <link href="dependencies.html" rel="import" />
     </head>
     
     <body>
-        Splitting icon modules - importing JS - v28 - adding imported html
+        Splitting icon modules - importing JS - v29 - adding imported html
         <div id="root"></div>
         
         
@@ -39,8 +38,15 @@
         
         <!-- React pre-processor (replace when distributing)-->
         <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+        
+        <div id="content"></div>
 
           <!-- Load React components (main interactions). -->
-          <script src="index.js" type="text/babel"></script>
+          <script>
+              $(document).ready(function(){
+                $('#content').load("dependencies.html");
+              });
+          </script>
+          <!--<script src="index.js" type="text/babel"></script>-->
     </body>
 </html>
