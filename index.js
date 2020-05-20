@@ -1,8 +1,6 @@
 const e = React.createElement;
 var colors=["blue", "green", "orange"];
 
-loadJS( "components/icons.js" );
-
 console.log(iconPlaceholder);
 
 class ButtonComp extends React.Component{
