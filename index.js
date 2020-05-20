@@ -64,6 +64,8 @@ class Homepage extends React.Component {
                   <ButtonComp message="Click here" color="orange" type="primary"/>
                   
                   <SiteHeader/>
+                  
+                  <icon/>
               </section>
             </React.Fragment>
         );
